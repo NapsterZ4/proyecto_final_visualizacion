@@ -1,7 +1,4 @@
-# Proyecto final
-
-
-# Proyecto de Visualización de Datos, descripción rutas jugadores costarricenses
+# Proyecto de Visualización de Datos, descripción de rutas de jugadores costarricenses
 
 # Introducción
 
